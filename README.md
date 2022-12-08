@@ -13,3 +13,5 @@ This is the CRUD Operation of [Django](https://www.djangoproject.com/) using [JQ
 ## Functionality 
 
 This website has two parts on home page , left part contains form which includes Name, Email and Password which are connected to [SQL Lite3](https://www.sqlite.org/index.html) Database ([Django](https://www.djangoproject.com/) and the right side contains [Bootstrap](https://getbootstrap.com/docs/5.2/) Table which displays all record and contains Action like Edit and Delete.
+
+You can Edit or Delete your record with just one click.
