@@ -6,3 +6,6 @@ This is the CRUD Operation of [Django](https://www.djangoproject.com/) using [JQ
 * [Bootstrap](https://getbootstrap.com/docs/5.2/) 5.2
 * Simple Desing 
 * Bootstrap Grid System
+* Django Static Files are used 
+* [SQL Lite3](https://www.sqlite.org/index.html) Database (Default Database of [Django](https://www.djangoproject.com/))
+* [JS](https://cdnjs.com/) and [JQuery](https://jquery.com/) 3.6.1 is used 
