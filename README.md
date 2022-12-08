@@ -32,6 +32,10 @@ This shows us how left side of page looks like
 This shows us how right side of page looks like
 ![image](images/table.png)
 
+### Edit Part:
+After clicking on Edit page corresponding data rendered in form,that's how it shows
+![image](images/edit.png)
+
 ## How to run on your computer?
 
 * Download it from [github](https://github.com/)
