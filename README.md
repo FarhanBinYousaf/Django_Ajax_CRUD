@@ -17,7 +17,7 @@ This website has two parts on home page:
 > * And the second is right side contains [Bootstrap](https://getbootstrap.com/docs/5.2/) `Table` which displays all record and contains Action like `Edit and Delete`.
 
 You can Edit or Delete your record with just one click.
-* To Change record click on Edit button then corresponding record would rendered in exact form without page reloading then you can save it.
+* To Change record click on `Edit` button then corresponding record would rendered in exact form without page reloading then you can save it.
 * To Delete record click of Delete button then corresponding record would delete without page reloading.
 
 ## Screenshots:
