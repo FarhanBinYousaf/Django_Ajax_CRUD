@@ -18,7 +18,7 @@ This website has two parts on home page:
 
 You can Edit or Delete your record with just one click.
 * To Change record click on `Edit` button then corresponding record would rendered in exact form without page reloading then you can save it.
-* To Delete record click of Delete button then corresponding record would delete without page reloading.
+* To Delete record click of `Delete` button then corresponding record would delete without page reloading.
 
 ## Screenshots:
 
